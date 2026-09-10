@@ -46,7 +46,7 @@ với phần mềm mới — không phải virus. Cách qua:
 Tài khoản Studio là nơi quản lý workflow và các máy chạy của bạn. Tạo một lần, dùng mãi.
 
 1. Mở trình duyệt, vào: **https://vwf-studio.hoangxnam.workers.dev**
-2. Bấm **"Tạo tài khoản"** (ở cuối trang đăng nhập).
+2. Bấm **"Tạo tài khoản"** (ngay trang chủ, cạnh nút Tải cho Windows — hoặc vào thẳng `/dang-ky`).
 3. Điền **Email** + **Mật khẩu** (tối thiểu 8 ký tự). Ô *Tên xưởng* không bắt buộc.
 4. Bấm **Tạo tài khoản** → bạn được đưa thẳng vào trang quản lý (`/app`).
 
